@@ -19,4 +19,4 @@ cd CARL-WIFI-CRACKING
 
 chmod +x *
 
-python C4RL-W!F!-CR4CK.py
+python C4RL-W1F1-CR4CK.py
