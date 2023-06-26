@@ -1,23 +1,25 @@
 # CARL-WIFI-CRACKING
-#DISCLAIMER:  DON'T USE ILLEGAL ACTIVITIES.
+# DISCLAIMER:  DON'T USE ILLEGAL ACTIVITIES.
 
 <ul>
-    <li> apt-get update -y </li>
+<li> apt-get update -y </li>
 
-apt-get upgrade -y
+<li> apt-get upgrade -y </li>
 
-pkg install python -y
+<li> pkg install python -y </li>
 
-pkg install python2 -y
+<li> pkg install python2 -y </li>
 
-pkg install git -y
+<li> pkg install git -y </li>
 
-pip install lolcat
+<li> pip install lolcat </li>
 
-git clone https://github.com/C-scripting101/CARL-WIFI-CRACKING.git
+<li> git clone https://github.com/C-scripting101/CARL-WIFI-CRACKING.git </li>
 
-cd CARL-WIFI-CRACKING
+<li> cd CARL-WIFI-CRACKING </li>
 
-chmod +x *
+<li> chmod +x * </li>
 
-python C4RL-W1F1-CR4CK.py
+<li> python C4RL-W1F1-CR4CK.py </li>
+
+</ul>
