@@ -1,7 +1,8 @@
 # CARL-WIFI-CRACKING
-DISCLAIMER:  DON'T USE ILLEGAL ACTIVITIES.
+#DISCLAIMER:  DON'T USE ILLEGAL ACTIVITIES.
 
-apt-get update -y
+<ul>
+    <li> apt-get update -y </li>
 
 apt-get upgrade -y
 
